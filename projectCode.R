@@ -1,15 +1,10 @@
 library(tidyverse)
 library(readxl)
-
 rm(list = ls())
 
 
-# set your working directory to the main folder
-# use setwd(); this will look like setwd("...../econ465code")
-
 # give the input path
 path = "./input"
-
 
 read_data <- function(path){
   f <- list.files(path, full.names = T)
