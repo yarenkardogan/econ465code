@@ -4,12 +4,12 @@ library(readxl)
 rm(list = ls())
 
 
-# you need to provide the *path* of the excel files
-# please make sure to only xls or xlsx files are in it
+# set your working directory to the main folder
+# use setwd(); this will look like setwd("...../econ465code")
 
-# path = "/Users/mucahitzor/Downloads/cn465"
+# give the input path
+path = "./input"
 
-path = "/Users/mucahitzor/Downloads/e465-2"
 
 read_data <- function(path){
   f <- list.files(path, full.names = T)
@@ -55,8 +55,8 @@ prepare_data <- function(path){
 data <- prepare_data(path)
 
 # export the data to excel
-#data %>% 
-#  writexl::write_xlsx("data.xlsx")
+data %>% 
+  writexl::write_xlsx("output.xlsx")
 
 
 
