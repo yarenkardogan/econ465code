@@ -6,8 +6,8 @@ Download the file by clicking Code and then download as zip. Extract the zip fil
 
 # Data Dictionary
 
-|Variable | What does it mean?  |   
-|---|---|
+|Variable | Description |   
+|    ---  |   ---        |
 |  değişken1 | açıklaması  | 
 |  değişken1 | açıklaması  | 
 |  değişken1 | açıklaması  | 
