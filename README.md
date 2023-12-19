@@ -6,10 +6,17 @@ Download the file by clicking Code and then download as zip. Extract the zip fil
 
 # Data Dictionary
 
-|Variable   | What does it mean?  |   
+|Variable | What does it mean?  |   
 |---|---|
 |  değişken1 | açıklaması  | 
-|   |   |
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
+|  değişken1 | açıklaması  | 
 
 
 Group members:
